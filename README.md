@@ -1,5 +1,5 @@
 ## Links to my W&B Project & GitHub repository
-[W&B Project](https://wandb.ai/yushenc-western-governors-university/nyc_airbnb/overview)
+[W&B Screenshots](https://github.com/yushenc/Project-Build-an-ML-Pipeline-Starter/tree/main/screenshots)
 
 [GitHub Repository](https://github.com/yushenc/Project-Build-an-ML-Pipeline-Starter)
 
